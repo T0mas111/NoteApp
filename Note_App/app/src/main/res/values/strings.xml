@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="notes_text" translatable="false">Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_and_close" translatable="false">Note text</string>
+    <string name="note_text" translatable="false">Last saved note</string>
+    <string name="remove_note" translatable="false">Remove note</string>
+    <string name="update_note" translatable="false">Update</string>
+    <string name="sec_add_note" translatable="false">Secondary menu item</string>
+    <string name="dunno" translatable="false">Dunno</string>
+    <string name="landscape_update" translatable="false">Landscape update</string>
+    <string name="msg_update_clicked" translatable="false">Update Clicked</string>
+    <string name="msg_dunno_clicked" translatable="false">Dunno Clicked</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="add_note">Add note in Lithuania</string>
+    <string name="save_and_close">LithuaniaClose</string>
+</resources>

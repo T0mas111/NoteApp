@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_note_activity"
+        android:title="Add note"/>
+    <item android:id="@+id/remove_note"
+        android:title="Remove note" />
+    <item android:id="@+id/update_note"
+        android:title="Update"/>
+    <item android:id="@+id/dunno"
+        android:title="Dunno"/>
+    <item android:id="@+id/hardcoded"
+        android:title="hardcoded"/>
+</menu>
